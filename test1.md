@@ -55,7 +55,9 @@ We welcome contributions of both technical and perspective papers from a wide ra
 
 Submissions should be 4-8 pages long, excluding references, and must follow the new standard ACM conference proceedings template. The review process is single-blind, and assessed based on their novelty, technical quality, significance, clarity, and relevance regarding the workshop topics. An optional appendix of arbitrary length is allowed and should be put at the end of the paper (after references). All manuscripts should be submitted in a single PDF file including all content, figures, tables, references, and other information. All accepted papers will be posted on the workshop website.
 
-For LaTeX users: unzip acmart.zip, make, and use sample-sigconf.tex as a template; Additional information about formatting and style files is available online at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)
+For LaTeX users: unzip acmart.zip, make, and use sample-sigconf.tex as a template; Additional information about formatting and style files is available online at: 
+[**<span style="background-color: yellow;">https://www.acm.org/publications/proceedings-template</span>**](https://www.acm.org/publications/proceedings-template)
+[https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)
 **<span style="background-color: yellow;"><a href="https://www.acm.org/publications/proceedings-template">https://www.acm.org/publications/proceedings-template</a></span>**
 
 
