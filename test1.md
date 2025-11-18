@@ -4,10 +4,6 @@
 
 ***
 
-## Navigation
-
-
-
 | [ABOUT](#about) | [CALL FOR PAPERS](#call-for-papers) | [IMPORTANT DATES](#important-dates) | [COMMITTEE](#committee) |
 | --------------- | ----------------------------------- | ----------------------------------- | ----------------------- |
 
