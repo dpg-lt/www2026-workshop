@@ -68,13 +68,13 @@ We welcome contributions of both technical and perspective papers from a wide ra
 
   * Safety and Security Issues: Investigating and mitigating critical safety concerns such as model hallucinations, vulnerability to "jailbreak" attacks, and ensuring the generation of safe and appropriate content.
 
-    Submissions should be 4-8 pages long, excluding references, and must follow the new standard ACM conference proceedings template. The review process is or single-blind, and assessed based on their novelty, technical quality, significance, clarity, and relevance regarding the workshop topics. An optional appendix of arbitrary length is allowed and should be put at the end of the paper (after references). All manuscripts should be submitted in a single PDF file including all content, figures, tables, references, and other information.  All accepted papers will be posted on the workshop website.
+Submissions should be 4-8 pages long, excluding references, and must follow the new standard ACM conference proceedings template. The review process is or single-blind, and assessed based on their novelty, technical quality, significance, clarity, and relevance regarding the workshop topics. An optional appendix of arbitrary length is allowed and should be put at the end of the paper (after references). All manuscripts should be submitted in a single PDF file including all content, figures, tables, references, and other information.  All accepted papers will be posted on the workshop website.
 
-    For LaTeX users: unzip acmart.zip, make, and use sample-sigconf.tex as a template; Additional information about formatting and style files is available online at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)
+For LaTeX users: unzip acmart.zip, make, and use sample-sigconf.tex as a template; Additional information about formatting and style files is available online at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)
 
-    We will use EasyChair to manage the submission and peer-reviewing process for this workshop. Accepted papers will be presented as posters during the workshop and listed on the website. A small number of accepted papers will be selected to be presented as contributed talks (15-minute oral presentations). We also welcome submissions of unpublished papers, including those submitted/accepted to other venues if that other venue allows.
+We will use EasyChair to manage the submission and peer-reviewing process for this workshop. Accepted papers will be presented as posters during the workshop and listed on the website. A small number of accepted papers will be selected to be presented as contributed talks (15-minute oral presentations). We also welcome submissions of unpublished papers, including those submitted/accepted to other venues if that other venue allows.
 
-    Submission site: xxx
+Submission site: xxx
 
 
 
