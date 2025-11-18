@@ -58,8 +58,6 @@ Submissions should be 4-8 pages long, excluding references, and must follow the 
 For LaTeX users: unzip acmart.zip, make, and use sample-sigconf.tex as a template; Additional information about formatting and style files is available online at: 
 [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)
 
-<a href="https://www.acm.org/publications/proceedings-template" style="color: #FFD700; font-weight: bold; text-decoration: underline;">https://www.acm.org/publications/proceedings-template</a>
-
 We will use EasyChair to manage the submission and peer-reviewing process for this workshop. Accepted papers will be presented as posters during the workshop and listed on the website. A small number of accepted papers will be selected to be presented as contributed talks (15-minute oral presentations). We also welcome submissions of unpublished papers, including those submitted/accepted to other venues if that other venue allows.
 
 **Submission site: xxx**
