@@ -12,7 +12,7 @@
 
 
 
-![Conference Banner](https://via.placeholder.com/1200x200?text=Conference+Banner)
+![Conference Banner]([https://via.placeholder.com/1200x200?text=Conference+Banner](https://github.com/dpg-lt/www2026-workshop/blob/main/%E5%A4%B4%E9%83%A8.png))
 
 
 
