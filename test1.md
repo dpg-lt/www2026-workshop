@@ -8,11 +8,16 @@
 
 
 
+| [ABOUT](#about) | [CALL FOR PAPERS](#call-for-papers) | [IMPORTANT DATES](#important-dates) | [COMMITTEE](#committee) |
+| --------------- | ----------------------------------- | ----------------------------------- | ----------------------- |
+
+
+
 ***
 
 
 
-![Conference Banner]([https://via.placeholder.com/1200x200?text=Conference+Banner](https://github.com/dpg-lt/www2026-workshop/blob/main/%E5%A4%B4%E9%83%A8.png))
+![Conference Banner](https://via.placeholder.com/1200x200?text=Conference+Banner)
 
 
 
@@ -20,25 +25,11 @@
 
 ## ABOUT
 
-这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！这是一个 ABOUT 章节！
+这是一个 ABOUT 章节！这是一个 ABOUT 章节！
 
 ### Conference Overview
 
 The International Conference on Technology and Innovation (ICT 2025) is dedicated to bringing together researchers, engineers, and practitioners from around the world to share the latest advancements in technology and innovation. Our goal is to promote academic exchange, showcase cutting-edge research, and facilitate collaboration among professionals in the field.
-
-### Key Features
-
-
-
-* **Keynote Speeches** by renowned experts
-
-* **Technical Sessions** covering various research areas
-
-* **Poster Presentations** for young researchers
-
-* **Networking Opportunities** with industry leaders
-
-* **Exhibition** of latest technologies and products
 
 
 
@@ -68,13 +59,13 @@ We welcome contributions of both technical and perspective papers from a wide ra
 
   * Safety and Security Issues: Investigating and mitigating critical safety concerns such as model hallucinations, vulnerability to "jailbreak" attacks, and ensuring the generation of safe and appropriate content.
 
-Submissions should be 4-8 pages long, excluding references, and must follow the new standard ACM conference proceedings template. The review process is or single-blind, and assessed based on their novelty, technical quality, significance, clarity, and relevance regarding the workshop topics. An optional appendix of arbitrary length is allowed and should be put at the end of the paper (after references). All manuscripts should be submitted in a single PDF file including all content, figures, tables, references, and other information.  All accepted papers will be posted on the workshop website.
+Submissions should be 4-8 pages long, excluding references, and must follow the new standard ACM conference proceedings template. The review process is single-blind, and assessed based on their novelty, technical quality, significance, clarity, and relevance regarding the workshop topics. An optional appendix of arbitrary length is allowed and should be put at the end of the paper (after references). All manuscripts should be submitted in a single PDF file including all content, figures, tables, references, and other information. All accepted papers will be posted on the workshop website.
 
 For LaTeX users: unzip acmart.zip, make, and use sample-sigconf.tex as a template; Additional information about formatting and style files is available online at: [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)
 
 We will use EasyChair to manage the submission and peer-reviewing process for this workshop. Accepted papers will be presented as posters during the workshop and listed on the website. A small number of accepted papers will be selected to be presented as contributed talks (15-minute oral presentations). We also welcome submissions of unpublished papers, including those submitted/accepted to other venues if that other venue allows.
 
-Submission site: xxx
+**Submission site: xxx**
 
 
 
@@ -126,114 +117,18 @@ Submission site: xxx
 
 ***
 
-## CONTACT
+**Contact Information:**
 
-**Conference Secretariat**
+Email: conference@example.com
 
-*Email:* ict2025@example.com
+Website: [https://conference.example.com](https://conference.example.com)
 
-*Phone:* +86-10-1234-5678
-
-*Fax:* +86-10-1234-5679
-
-**Website:** [https://ict2025.example.com](https://ict2025.example.com)
-
-**Twitter:** @ICT2025Conf
-
-**LinkedIn:** International Conference on Technology and Innovation 2025
-
-**Mailing Address:**
-
-International Conference on Technology and Innovation 2025
-
-c/o School of Computer Science
-
-Tsinghua University
-
-Beijing 100084, China
-
-
-
-***
-
-## VENUE
-
-**Beijing International Convention Center**
-
-**Address:** 88 Yuetan South Street, Xicheng District, Beijing, China
-
-**Transportation:** 10 minutes from Beijing West Railway Station
-
-**Accommodation:** Negotiated rates at nearby hotels
-
-
-
-***
-
-## SPONSORS
-
-### Gold Sponsors
-
-
-
-* **Technology Innovation Inc.** - Leading provider of AI solutions
-
-* **Future Tech Solutions** - Global leader in IoT technologies
-
-### Silver Sponsors
-
-
-
-* **Digital Horizon Ltd.** - Blockchain technology experts
-
-* **Innovation Partners Group** - Cybersecurity specialists
-
-### Supporting Sponsors
-
-
-
-* **Data Science Alliance**
-
-* **Cloud Computing Association**
-
-* **Smart Cities Consortium**
-
-
-
-***
-
-## REGISTRATION
-
-### Registration Fees
-
-
-
-| Category          | Early Bird (Before June 1) | Regular (After June 1) |
-| ----------------- | -------------------------- | ---------------------- |
-| Academic/Industry | \$300                      | \$350                  |
-| Student           | \$200                      | \$250                  |
-| IEEE Member       | \$280                      | \$330                  |
-
-### Registration Includes
-
-
-
-* Access to all technical sessions
-
-* Conference materials and proceedings
-
-* Welcome reception and coffee breaks
-
-* Conference dinner
+Twitter: @Conference2025
 
 
 
 ***
 
 *© 2025 International Conference on Technology and Innovation. All rights reserved.*
-
-**Privacy Policy:** We respect your privacy and will not share your personal information with third parties without your consent.
-
-**Code of Conduct:** All participants are expected to adhere to the conference code of conduct promoting a respectful and inclusive environment.
 
 > （注：文档部分内容可能由 AI 生成）
