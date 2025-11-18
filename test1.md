@@ -11,15 +11,9 @@
 | [ABOUT](#about) | [CALL FOR PAPERS](#call-for-papers) | [IMPORTANT DATES](#important-dates) | [COMMITTEE](#committee) |
 | --------------- | ----------------------------------- | ----------------------------------- | ----------------------- |
 
-
-
 ***
 
-
-
-![Conference Banner](https://via.placeholder.com/1200x200?text=Conference+Banner)
-
-
+![Conference Banner](头部.png)
 
 ***
 
